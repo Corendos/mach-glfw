@@ -1,7 +1,7 @@
 const std = @import("std");
 const testing = std.testing;
 
-const c = @import("c.zig").c;
+pub const c = @import("c.zig").c;
 
 const key = @import("key.zig");
 const errors = @import("errors.zig");
