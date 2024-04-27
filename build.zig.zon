@@ -12,8 +12,8 @@
     },
     .dependencies = .{
         .glfw = .{
-            .url = "https://github.com/corendos/glfw/archive/fb7153ffb4e170e2468d77238a01e1d8a09ba188.tar.gz",
-            .hash = "122002be6ca53d41108f51c5dd7acced8e06498c63e1398f47f29cf2623fc12ec3f2",
+            .url = "https://github.com/corendos/glfw/archive/5c6994c143c87936c980b6710bbb86fc77b2097b.tar.gz",
+            .hash = "122028dbc595e8d8266f681837e24f75caaea07489aff3fda94b2b09aa501e4400d2",
         },
     },
 }
