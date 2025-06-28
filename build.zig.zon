@@ -1,5 +1,6 @@
 .{
-    .name = "mach-glfw",
+    .name = .mach_glfw,
+    .fingerprint = 0xa924846d3e7d3894,
     .version = "0.2.0",
     .paths = .{
         "src/",
@@ -12,8 +13,8 @@
     },
     .dependencies = .{
         .glfw = .{
-            .url = "https://github.com/corendos/glfw/archive/5c6994c143c87936c980b6710bbb86fc77b2097b.tar.gz",
-            .hash = "122028dbc595e8d8266f681837e24f75caaea07489aff3fda94b2b09aa501e4400d2",
+            .url = "https://github.com/corendos/glfw/archive/c035e41b60fbb44e466784dc2e2161daa79273f3.tar.gz",
+            .hash = "glfw-0.0.0-y9iGI7iqGQAPDZpiq9NI5xl9pU2iUMJTw5gpVtEUDkQ6",
         },
     },
 }
